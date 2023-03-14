@@ -14,7 +14,7 @@ spec:
     spec:
       project: default
       source:
-        repoURL: https://github.com/Bestor/control-plane
+        repoURL: https://github.com/bestor/control-plane
         targetRevision: HEAD
         path: 'clusters/{{name}}'
         directory:

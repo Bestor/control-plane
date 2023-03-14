@@ -11,7 +11,7 @@ spec:
   project: default
   source:
     path: argocd/
-    repoURL: https://github.com/Bestor/control-plane
+tT    repoURL: https://github.com/bestor/control-plane
     directory:
       recurse: true
   syncPolicy:
